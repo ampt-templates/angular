@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://ampt.dev/public/templates/ampt-api.svg" alt="ampt-logo" width="75" style="margin-right: 20px;"/>
-    <img src="https://ampt.dev/public/templates/angular.svg" alt="angular-logo" width="200"/>
+    <img src="https://ampt.dev/public/templates/angular.svg" alt="angular-logo" width="75"/>
 </p>
 
 ## Welcome to Ampt!
@@ -25,7 +25,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ampt build` or `build` in the Ampt shell to build the project. The build artifacts will be stored in the `static/` directory. This is modified from the default Angular CLI build command, which stores the build artifacts in the `dist/` directory, storing in `static/` allows Ampt to serve the static files from the root of the domain.
+Run `ampt build` or `build` in the Ampt shell to build the project. The build artifacts will be stored in the `static/` directory. This is modified from the default Angular build config, which stores the build artifacts in the `dist/` directory, storing in `static/` allows Ampt to serve the static files from the root of the domain.
 
 ## Running unit tests
 
