@@ -1,5 +1,4 @@
 <p align="center">
-    <img src="https://ampt.dev/public/templates/ampt-api.svg" alt="ampt-logo" width="75" style="margin-right: 20px;"/>
     <img src="https://ampt.dev/public/templates/angular.svg" alt="angular-logo" width="75"/>
 </p>
 
