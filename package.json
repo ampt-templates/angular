@@ -6,7 +6,8 @@
     "ampt:build": "ng build",
     "ng": "ng",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "gitpod:ampt": "./node_modules/.bin/ampt"
   },
   "private": true,
   "devDependencies": {
@@ -34,10 +35,7 @@
     "typescript": "~5.1.3"
   },
   "ampt": {
-    "app": "ampt-angular",
-    "org": "benminer"
-  },
-  "files": [
-    "*"
-  ]
+    "app": "",
+    "org": ""
+  }
 }
